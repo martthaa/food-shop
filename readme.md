@@ -1,6 +1,6 @@
 # Recipes App
   <details>
-<summary>Food recipes</summary>
+<summary>details</summary>
  
  So this application is all about searching for recipes and displaying them, in our user interface.
  
