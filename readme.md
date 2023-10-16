@@ -1,4 +1,4 @@
-# JS  
+# Recipes App
   <details>
 <summary>Food recipes</summary>
  
