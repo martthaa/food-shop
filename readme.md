@@ -1,4 +1,4 @@
-# JS-Camp  
+# JS  
   <details>
 <summary>Food recipes</summary>
  
